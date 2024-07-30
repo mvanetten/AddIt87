@@ -12,4 +12,9 @@ Addit'87 is a retro-themed personal organizer simulation inspired by the game "L
 
 # Getting Started
 
-Download the [Addit87.exe](Addit87.exe) (works only on Windows 10 and 11)
+- Download the [Addit87.exe](Addit87.exe) (works only on Windows 10 and 11)
+
+# How to use 
+- Use the Up/Down arrow key to scroll down the list.
+- Use the Left/Right arrow key to scroll down the menu.
+- Close the program (Alt+F4) or click on the crossmark.
