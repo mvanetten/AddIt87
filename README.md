@@ -1,5 +1,7 @@
 # Addit'87 - Personal Organizer Simulation
 
+![Addit'87 interface](addit87.png)
+
 Addit'87 is a retro-themed personal organizer simulation inspired by the game "Lake." This project simulates a vintage digital planner with weekly diaries, expenses, addresses, shopping lists, and to-do items.
 
 ## Features
