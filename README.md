@@ -21,4 +21,4 @@ Addit'87 is a retro-themed personal organizer simulation inspired by the game "L
 
 # Customize
 You can create your own Addit'87 database by customizing the Menu, Submenu, and item content. You can also add more menu items. Content is limited to 10 lines max.
-- Open data.json, modify Menu and Label values under Items. Use a text editor with JSON support, check syntax, and validate after editing.
+- Open data.json, modify Menu and Label values under Items. Use a text editor with JSON and UTF-8 support , check syntax, and validate after editing.
