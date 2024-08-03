@@ -1,0 +1,153 @@
+[
+    {
+        "Menu":  " WEEKLY DIARY ",
+        "Items":  [
+                      {
+                          "Text":  [
+                                       "Monday, August 04, 1986.",
+                                       "",
+                                       "The start of a crucial month. Steve has put us all on high alert",
+                                       "with the deadline for Addit'87. The tension in the office is awful,",
+                                       "but I'm trying to stay focused.",
+                                       "Today, I worked on interface improvements.",
+                                       "There is still so much to do, but I know we can make it."
+                                   ],
+                          "Label":  " WEEK 32 "
+                      },
+                      {
+                          "Text":  [
+                                       "Friday, August 15, 1986.",
+                                       "",
+                                       "Today was a challenging day. We encountered an unexpected bug that",
+                                       "threatened to undo much of our progress.",
+                                       "I plan to work through the weekend to make sure we stay on schedule."
+                                   ],
+                          "Label":  " WEEK 33 "
+                      },
+                      {
+                          "Text":  [
+                                       "Monday, August 18, 1986.",
+                                       "",
+                                       "After working through the long weekend, we found the bug.",
+                                       "Today was a long day full of repeated tests. Steve seems a bit more relaxed",
+                                       "now that we are getting closer to completion. ",
+                                       "We still have a few crucial weeks to go."
+                                   ],
+                          "Label":  " WEEK 34 "
+                      },
+                      {
+                          "Text":  [
+                                       "Sunday, August 31, 1986.",
+                                       "",
+                                       "It's funny how a program designed to help organize your life",
+                                       "is the reason why I can't be at the Labor Day party. But I'm",
+                                       "glad we made the deadline.",
+                                       "",
+                                       "And I'm glad I can now spend two stress-free weeks in good",
+                                       "old Providence Oaks."
+                                   ],
+                          "Label":  " WEEK 35 "
+                      },
+                      {
+                          "Text":  [
+                                       "Tuesday, September 2, 1986.",
+                                       "",
+                                       "I spent the morning delivering packages to the residents.",
+                                       "Along the way, I had a conversation with Mildred Jenkins",
+                                       "about her beloved cat Mortimer.",
+                                       "",
+                                       "It was nice to see how some things never change.",
+                                       "The peace and simplicity of the village are a welcome change."
+                                   ],
+                          "Label":  " WEEK 36 "
+                      }
+                  ]
+    },
+    {
+        "Menu":  " EXPENSES ",
+        "Items":  [
+                      {
+                          "Text":  [
+                                       "Rent",
+                                       "Date: September 1, 1986",
+                                       "Description: Monthly apartment rent",
+                                       "Amount: $400",
+                                       "",
+                                       "Groceries",
+                                       "Date: September 3, 1986",
+                                       "Description: Weekly grocery shopping",
+                                       "Amount: $30"
+                                   ],
+                          "Label":  " SEPT.   "
+                      },
+                      {
+                          "Text":  [
+                                       "Rent",
+                                       "Date: August 1, 1986",
+                                       "Description: Monthly apartment rent",
+                                       "Amount: $400",
+                                       "",
+                                       "Travel",
+                                       "Date: August 5, 1986",
+                                       "Description: Ticket to Portland International Airport (PDX)",
+                                       "Amount: $160"
+                                   ],
+                          "Label":  " AUG.    "
+                      }
+                  ]
+    },
+    {
+        "Menu":  " ADDRESSES ",
+        "Items":  [
+                      {
+                          "Text":  [
+                                       "Mom and Dad",
+                                       "102 Oak St, Providence Oaks, OR 97026"
+                                   ],
+                          "Label":  " FAMILY  "
+                      },
+                      {
+                          "Text":  [
+                                       "Kay Evans",
+                                       "402 Pine St, Providence Oaks, OR 97026",
+                                       "",
+                                       "Angie Eastman",
+                                       "351 Main St, Providence Oaks, OR 97026"
+                                   ],
+                          "Label":  " FRIENDS "
+                      },
+                      {
+                          "Text":  [
+                                       "Steve",
+                                       "123 Beacon St, Boston, MA 02116"
+                                   ],
+                          "Label":  " WORK    "
+                      }
+                  ]
+    },
+    {
+        "Menu":  " SHOPPING ",
+        "Items":  [
+                      {
+                          "Text":  [
+                                       "- Find a new outfit for the talent show.",
+                                       "- Buy a new toothbrush at the store from Nancy. "
+                                   ],
+                          "Label":  "  TODAY  "
+                      }
+                  ]
+    },
+    {
+        "Menu":  " TO DO ",
+        "Items":  [
+                      {
+                          "Text":  [
+                                       "- Return book to the library",
+                                       "- Get nails done",
+                                       "- Get Blueberry Pie!!!!"
+                                   ],
+                          "Label":  "  TODAY  "
+                      }
+                  ]
+    }
+]
