@@ -1,7 +1,7 @@
 # Addit'87 - Personal Organizer Simulation
 ![Addit'87 interface](addit87.png)
 
-### Addit'87 in the videogame Lake by Gameious
+### Addit'87 in the videogame Lake by Gamious
 ![Addit'87 in game](Lake01.png)
 
 ### Meredith Weiss journaling in Addit'87
