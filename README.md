@@ -1,6 +1,11 @@
 # Addit'87 - Personal Organizer Simulation
-
 ![Addit'87 interface](addit87.png)
+
+### Addit'87 in the videogame Lake by Gameious
+![Addit'87 in game](Lake01.png)
+
+### Meredith Weiss journaling in Addit'87
+![Addit'87 in game](Lake02.png)
 
 Addit'87 is a retro-themed personal organizer simulation inspired by the game "Lake." This project simulates a vintage digital planner with weekly diaries, expenses, addresses, shopping lists, and to-do items.
 
