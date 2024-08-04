@@ -33,3 +33,6 @@ You can *Edit* the Addit'87 database by customizing the _main menu_, _submenu_ a
 - Menu : Defines the title of each main menu 
 - Label: Defines the title of each submenu (max 10 items per Menu).
 - Text : Contains the content of the submenu, which is an array of strings (max 10 lines).
+
+# ChangeLog
+- Add bootsplash
